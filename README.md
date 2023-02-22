@@ -15,7 +15,7 @@ Você encontra [no meu portfólio](https://mbouhid.github.io/portfolio_projetos/
 ## Projetos de Machine Learning
 
 
-### [Sistema de Recomendação para Cross-selling de Seguros](https://github.com/mbouhid/health_insurance)
+### [Sistema de Recomendação para Cross-selling de Seguros](https://github.com/mbouhid/recommender_system)
 Objetivo:
 Criar um algoritmo de rankeamento de interesse em seguro veicular para novos clientes, a partir de dados de pesquisa de interesse realizada com clientes antigos. 
 
