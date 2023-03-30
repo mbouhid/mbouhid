@@ -33,6 +33,13 @@ Criar um algoritmo de previsão de vendas para 1115 lojas, e disponibilizá-lo p
 
 Implementado via bot no Telegram. (Conclusão: 07/2022)
 
+### [Classificação de reservas em uma rede hoteleira](https://github.com/mbouhid/iv_hackday)
+Objetivo:
+Criar de um modelo de classifcação e sugerir ações de marketing para reverter o alto número de cancelamentos de reserva de uma rede hoteleira.
+
+Implementado via Kaggle. (Conclusão: 03/2023)
+
+
 ## Projetos de Insights
 
 
